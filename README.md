@@ -276,4 +276,4 @@ Download Windows Terminal > Install > Run
 --
 
 ## Hubungi saya
-Jika anda pertanya lebih lanjut hubungi saya di [sini}(https://github.com/lamberthrumpaidus)
+Jika anda pertanya lebih lanjut hubungi saya di [sini](https://github.com/lamberthrumpaidus)

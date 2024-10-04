@@ -273,7 +273,6 @@ Gunakan Windows Terminal untuk mengelola command line dengan lebih efisien.
 Download Windows Terminal > Install > Run
 ```
 
---
 
 ## Hubungi saya
 Jika anda pertanya lebih lanjut hubungi saya di [sini](https://github.com/lamberthrumpaidus)
